@@ -14,14 +14,7 @@
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">[Live Coding in Lecture] Hi DevOps Students of RMIT Vietnam!</h1>
-      <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
-      <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
-      <hr class="my-4">
-      <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
-      <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
-      <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
-      <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
+      <h1 class="display-4">I am Phong Le - s3877819 from the DevOps final exam</h1>
     </div>
     <!-- The content of the website ends here! -->
 
